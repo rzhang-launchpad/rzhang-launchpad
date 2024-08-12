@@ -8,9 +8,9 @@ I got interested in coding after working in quality assurance for a big software
 
 I'd show them a screenshot, and they'd immediately be like *"Oh, that must be XYZ not doing ABC..."*
 
-So, I thought, *Hey, if I'm here, I might as well learn some basic coding so I can better identify issues and understand what's going on.*
+I thought, *Hey, if I'm here, why don't I learn some basic coding so I can better identify issues and understand what's going on?*
 
-So here I am.
+So... here I am.
 
 
 
